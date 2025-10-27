@@ -1,0 +1,36 @@
+{
+  "banner": {
+    "title": "Community"
+  },
+  "subtitle": "Join our global community of conservationists",
+  "title": "Articles from Our Community",
+  "filters": {
+    "title": "Filters:",
+    "category": "Category",
+    "medio": "Media",
+    "categories": [
+      "Biomonitoring",
+      "Education",
+      "Research",
+      "Conservation",
+      "Scientific Tourism"
+    ],
+    "medios": [
+      "ACI ECOSOC",
+      "Biological Stations",
+      "Partners",
+      "External Media"
+    ]
+  },
+  "search": {
+    "placeholder": "Search articles...",
+    "dateFilter": "Filter by date",
+    "clearFilters": "Clear filters"
+  },
+  "noResults": {
+    "title": "No articles found",
+    "description": "Try adjusting the filters to find what you're looking for."
+  },
+  "loading": "Loading...",
+  "articleNotFound": "Article not found"
+}

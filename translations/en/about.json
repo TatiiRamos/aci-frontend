@@ -1,0 +1,66 @@
+{
+  "aboutTitle": "ABOUT",
+  "aboutTitleSpan": "US",
+  "title": "ABOUT",
+  "titleSpan": "US",
+  "buttonText": "Meet our team",
+  "paragraphTag": "Now you can be part of a unique cultural and professional experience",
+  "buttonBook": "Book",
+  "buttonExplore": "Explore",
+  "aboutUsTitle": "Who are we?",
+  "aboutUs": "We are an international cooperation organization that has been developing scientific research and ecosystem conservation projects in underprivileged communities since 2019 through Biological Stations. We aim to improve the quality of life for residents through alternative economic models.",
+  "missionTitle": "Our Mission",
+  "missionParagraph": "Promote environmental, economic, and social development in the community through the establishment of Biological Stations.",
+  "visionTitle": "Our Vision",
+  "visionParagraph": "Be a global reference in contributing to the transformation of life in environmentally respectful communities through the development of alternative economic models.",
+  "lookTitle": "What are we looking for?",
+  "lookParagraph1": "We are delighted to introduce you to Awaq Campus practices, a fantastic initiative by Awaq Biological Stations.",
+  "lookParagraph2": "Our top priority is to conduct scientific research and ecosystem conservation in disadvantaged communities, proposing alternative economic models that enhance the locals' quality of life.",
+  "lookParagraph3": "Our ultimate goal is to safeguard ecosystems through innovative scientific research and conservation initiatives at our biological stations. We are committed to making a significant difference in the world and we are excited about the positive impact we can achieve.",
+  "valuesTitle": "Our Values",
+  "values": {
+    "commitment": "Commitment",
+    "solidarity": "Solidarity",
+    "transparency": "Transparency",
+    "proactivity": "Proactivity",
+    "collaboration": "Collaboration"
+  },
+  "needTitle": "Why do we need Awaq?",
+  "development": {
+    "environmental": {
+      "title": "Environmental Development",
+      "text": "Protect and conserve the environment"
+    },
+    "economic": {
+      "title": "Economic Development",
+      "text": "Create a sustainable economic model and network"
+    },
+    "social": {
+      "title": "Social Development",
+      "text": "Aid in community development."
+    }
+  },
+  "howTitle": "How do we do it?",
+  "projectsSubtitle": "Our Projects",
+  "projects": {
+    "biodiversity": "Biodiversity",
+    "technology": "Technology",
+    "cultural": "Cultural",
+    "studyCase": "Study case"
+  },
+  "teamTitle": "The Team",
+  "team": {
+    "president": {
+      "name": "José Serrano",
+      "role": "President"
+    },
+    "vicePresident": {
+      "name": "Ximena Sanz",
+      "role": "Vice President"
+    },
+    "secretary": {
+      "name": "Angélica Lozano",
+      "role": "General Secretary"
+    }
+  }
+}

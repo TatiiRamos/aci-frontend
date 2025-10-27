@@ -1,0 +1,162 @@
+{
+  "menuItems": [
+    "About the station",
+    "Our mission",
+    "Marine biodiversity",
+    "Geographic location",
+    "Aquatic fauna",
+    "Ecosystems",
+    "Contact details"
+  ],
+  "btnContacto": "Contact",
+  "estacion1": {
+    "seccion1": {
+      "titulo": "Norte de Caldas Biological Station",
+      "subTitulo1": "A natural paradise in the heart of Colombia",
+      "subTitulo2": "Conservation and biodiversity research",
+      "tituloExplicativo1": "About our station",
+      "txtExplicativo1": "The biological station is located in northern Caldas, a region privileged by its biodiversity.",
+      "tituloExplicativo2": "Our commitment",
+      "txtExplicativo2": "We work in the conservation and protection of local ecosystems."
+    },
+    "seccion2": {
+      "titulo": "Our mission",
+      "mision1Titulo": "Conservation",
+      "mision2Titulo": "Research",
+      "mision1Info": "Protect and conserve the natural ecosystems of the region.",
+      "mision2Info": "Conduct high-quality scientific research."
+    },
+    "seccion3": {
+      "titulo": "Marine biodiversity",
+      "texto": "The marine biodiversity of the region is exceptional.",
+      "subTitulo": "Featured species:",
+      "item1": "Corals",
+      "item2": "Tropical fish",
+      "item3": "Marine mammals",
+      "item4": "Invertebrates",
+      "item1text": "Unique coral ecosystems",
+      "item2text": "Great diversity of fish species",
+      "item3text": "Whales and dolphins",
+      "item4text": "Crustaceans and mollusks"
+    },
+    "seccion4": {
+      "tituloPais": "Country",
+      "tituloRegion": "Region",
+      "tituloMunicipio": "Municipality",
+      "infoPais": "Colombia",
+      "infoRegion": "Norte de Caldas",
+      "infoMunicipio": "Aguadas",
+      "tituloDescriptivo": "Geographic description",
+      "textoDescriptivo": "The station is located in a strategic location."
+    },
+    "seccion5": {
+      "items": ["Fish", "Corals", "Crustaceans", "Mollusks", "Echinoderms"],
+      "text1": "Diversity of tropical fish",
+      "text2": "Healthy coral reefs",
+      "text3": "Endemic crustaceans",
+      "text4": "Commercially important mollusks",
+      "text5": "Echinoderms as ecological indicators"
+    },
+    "seccion6": {
+      "item1": "Coral reefs",
+      "item2": "Mangroves",
+      "subItem1": "Hard coral",
+      "subItem2": "Soft coral",
+      "subItem3": "Red mangrove",
+      "subItem4": "Black mangrove",
+      "subItem5": "White mangrove",
+      "subItem6": "Button mangrove",
+      "text1": "Diverse coral ecosystems",
+      "text2": "Unique soft corals",
+      "text3": "Mangroves as nursery",
+      "text4": "Coastal protection",
+      "text5": "Natural filtration",
+      "text6": "Specialized habitat"
+    },
+    "seccion7": {
+      "titulo1": "Station director",
+      "titulo2": "Research coordinator",
+      "titulo3": "Conservation specialist",
+      "titulo4": "Main contact",
+      "texto1Info": "Station team leader",
+      "texto2Info": "Scientific project coordination",
+      "nombreContacto": "Dr. Juan Pérez",
+      "cargoContacto": "Station director"
+    }
+  },
+  "estacion2": {
+    "seccion1": {
+      "titulo": "Andes Biological Station",
+      "subTitulo1": "Research in mountain ecosystems",
+      "subTitulo2": "High mountain conservation",
+      "tituloExplicativo1": "About our station",
+      "txtExplicativo1": "The Andes station specializes in mountain ecosystems.",
+      "tituloExplicativo2": "Our commitment",
+      "txtExplicativo2": "Conservation of Andean biodiversity."
+    },
+    "seccion2": {
+      "titulo": "Our mission",
+      "mision1Titulo": "Conservation",
+      "mision2Titulo": "Research",
+      "mision1Info": "Protect unique mountain ecosystems.",
+      "mision2Info": "Research in Andean biodiversity."
+    },
+    "seccion3": {
+      "titulo": "Mountain biodiversity",
+      "texto": "Andean ecosystems harbor unique species.",
+      "subTitulo": "Featured species:",
+      "item1": "Endemic birds",
+      "item2": "High-altitude mammals",
+      "item3": "Alpine plants",
+      "item4": "Amphibians",
+      "item1text": "Unique bird species of the region",
+      "item2text": "Mammals adapted to altitude",
+      "item3text": "Specialized mountain flora",
+      "item4text": "Endemic amphibians"
+    },
+    "seccion4": {
+      "tituloPais": "Country",
+      "tituloRegion": "Region",
+      "tituloMunicipio": "Municipality",
+      "infoPais": "Colombia",
+      "infoRegion": "Andes Mountains",
+      "infoMunicipio": "Manizales",
+      "tituloDescriptivo": "Geographic description",
+      "textoDescriptivo": "Located in the Andean mountain range."
+    },
+    "seccion5": {
+      "items": ["Birds", "Mammals", "Plants", "Amphibians", "Reptiles"],
+      "text1": "Diversity of endemic birds",
+      "text2": "Mountain mammals",
+      "text3": "Specialized alpine flora",
+      "text4": "Unique amphibians",
+      "text5": "High-altitude reptiles"
+    },
+    "seccion6": {
+      "item1": "Environmental Impact:",
+      "item2": "Social Impact:",
+      "subItem1": "Mountain Ecosystem Protection: ",
+      "subItem2": "Control of Invasive Species: ",
+      "subItem3": "Biological Corridors: ",
+      "subItem4": "Community Education and Awareness: ",
+      "subItem5": "Community Participation: ",
+      "subItem6": "Local Sustainable Development: ",
+      "text1": "We conserve critical high-mountain habitats and endemic species.",
+      "text2": "We implement measures to control species that threaten native biodiversity.",
+      "text3": "We create connections between forest fragments to facilitate species movement.",
+      "text4": "We develop educational programs to increase environmental awareness.",
+      "text5": "We involve local communities in conservation activities.",
+      "text6": "We promote sustainable practices that benefit both the environment and the local economy."
+    },
+    "seccion7": {
+      "titulo1": "Presentation Video",
+      "titulo2": "Leadership in Conservation and Community",
+      "titulo3": "Generation of Environmental Knowledge",
+      "titulo4": "Contact Information",
+      "texto1Info": "Veterinary Medicine and Animal Science graduate from the Pedagogical and Technological University of Colombia",
+      "texto2Info": "Coordinator and co-founder of the Andes Biological Station",
+      "nombreContacto": "Valentina Grijalba",
+      "cargoContacto": "Station Director"
+    }
+  }
+}

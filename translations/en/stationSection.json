@@ -1,0 +1,28 @@
+{
+  "title": "Stations",
+  "searchPlaceholder": "Search",
+  "addStation": "+ Add Station",
+  "seeAll": "See all stations",
+  "table": {
+    "name": "Name",
+    "country": "Country",
+    "director": "Manager",
+    "action": "Action"
+  },
+  "info": {
+    "city": "City",
+    "subtitle": "Subtitle",
+    "description": "Description",
+    "state": "State",
+    "image": "Image",
+    "noImage": "No image",
+    "video": "Video",
+    "noVideo": "No video",
+    "videoUnsupported": "Your browser does not support the video tag"
+  },
+  "states": {
+    "available": "Available",
+    "unavailable": "Not available"
+  },
+  "noStations": "There are no stations created."
+}

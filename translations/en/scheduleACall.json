@@ -1,0 +1,13 @@
+{
+  "title": "Schedule a call",
+  "subtitle": "Connect with our team",
+  "CTATitle": "Ready to get started?",
+  "CTASubtitle": "Schedule your free call now",
+  "bookingLinkText": "Book your appointment here",
+  "steps": [
+    "Select the date and time that works best for you",
+    "Fill in your contact details",
+    "Confirm your appointment",
+    "Receive confirmation by email"
+  ]
+}

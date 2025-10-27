@@ -1,0 +1,13 @@
+{
+  "title": "Programa una llamada",
+  "subtitle": "Conecta con nuestro equipo",
+  "CTATitle": "¿Listo para comenzar?",
+  "CTASubtitle": "Programa tu llamada gratuita ahora",
+  "bookingLinkText": "Agenda tu cita aquí",
+  "steps": [
+    "Selecciona la fecha y hora que mejor te convenga",
+    "Completa tus datos de contacto",
+    "Confirma tu cita",
+    "Recibe la confirmación por email"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Proyectos",
+  "subtitle": "Explora nuestros proyectos",
+  "project1": {
+    "whyandhow": "¿Por qué y cómo?"
+  },
+  "project5": {
+    "whyandhow": "¿Por qué y cómo?",
+    "section1": {
+      "fulldescription": "Descripción completa del proyecto",
+      "ul1": {
+        "titleul": "Objetivos del Proyecto",
+        "li1": "Conservar y restaurar ecosistemas marinos costeros"
+      },
+      "ul2": {
+        "titleul": "Metodología",
+        "li1": "Implementación de técnicas de monitoreo"
+      },
+      "ul3": {
+        "titleul": "Resultados Esperados",
+        "li1": "Aumento en la biodiversidad marina",
+        "li2": "Mejora en la calidad del agua",
+        "li3": "Fortalecimiento de las comunidades locales"
+      }
+    },
+    "section2": {
+      "spanstate": "Estado:",
+      "state": "Activo",
+      "spanstart": "Fecha de inicio:",
+      "spanend": "Fecha de finalización:",
+      "start": "Enero 2024",
+      "end": "Diciembre 2026",
+      "spancountry": "País:",
+      "spanzone": "Zona:",
+      "country": "Colombia",
+      "zone": "Costa Pacífica",
+      "spanobjective": "Objetivo:",
+      "spanfulldescription": "Descripción completa:",
+      "objective": "Conservación marina",
+      "fulldescription": "Proyecto de conservación y restauración de ecosistemas marinos",
+      "aimedsectorspan": {
+        "titleul": "Sectores objetivo",
+        "li1": "Organizaciones ambientales",
+        "li2": "Instituciones educativas",
+        "li3": "Comunidades locales"
+      }
+    },
+    "section3": {
+      "subsection1": {
+        "ol": {
+          "li1": "Evaluación inicial del ecosistema",
+          "li2": "Diseño de estrategias de conservación",
+          "li3": "Implementación de medidas de protección",
+          "li4": "Monitoreo continuo",
+          "li5": "Educación ambiental",
+          "li6": "Participación comunitaria",
+          "li7": "Evaluación de resultados",
+          "li8": "Sostenibilidad a largo plazo"
+        }
+      },
+      "subsection2": "Metodología de investigación aplicada"
+    },
+    "section4": {
+      "alliance1": "Alianza estratégica 1",
+      "alliance1description": "Descripción de la primera alianza",
+      "alliance2": "Alianza estratégica 2",
+      "alliance2description": "Descripción de la segunda alianza",
+      "alliance3": "Alianza estratégica 3",
+      "alliance3description": "Descripción de la tercera alianza",
+      "alliance4": "Universidad Nacional",
+      "alliance5": "Instituto de Investigación Marina"
+    }
+  }
+}

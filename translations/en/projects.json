@@ -1,0 +1,74 @@
+{
+  "title": "Projects",
+  "subtitle": "Explore our projects",
+  "project1": {
+    "whyandhow": "Why and how?"
+  },
+  "project5": {
+    "whyandhow": "Why and how?",
+    "section1": {
+      "fulldescription": "Complete project description",
+      "ul1": {
+        "titleul": "Project Objectives",
+        "li1": "Conserve and restore coastal marine ecosystems"
+      },
+      "ul2": {
+        "titleul": "Methodology",
+        "li1": "Implementation of monitoring techniques"
+      },
+      "ul3": {
+        "titleul": "Expected Results",
+        "li1": "Increase in marine biodiversity",
+        "li2": "Improvement in water quality",
+        "li3": "Strengthening of local communities"
+      }
+    },
+    "section2": {
+      "spanstate": "Status:",
+      "state": "Active",
+      "spanstart": "Start date:",
+      "spanend": "End date:",
+      "start": "January 2024",
+      "end": "December 2026",
+      "spancountry": "Country:",
+      "spanzone": "Zone:",
+      "country": "Colombia",
+      "zone": "Pacific Coast",
+      "spanobjective": "Objective:",
+      "spanfulldescription": "Full description:",
+      "objective": "Marine conservation",
+      "fulldescription": "Marine ecosystem conservation and restoration project",
+      "aimedsectorspan": {
+        "titleul": "Target sectors",
+        "li1": "Environmental organizations",
+        "li2": "Educational institutions",
+        "li3": "Local communities"
+      }
+    },
+    "section3": {
+      "subsection1": {
+        "ol": {
+          "li1": "Initial ecosystem assessment",
+          "li2": "Conservation strategy design",
+          "li3": "Implementation of protection measures",
+          "li4": "Continuous monitoring",
+          "li5": "Environmental education",
+          "li6": "Community participation",
+          "li7": "Results evaluation",
+          "li8": "Long-term sustainability"
+        }
+      },
+      "subsection2": "Applied research methodology"
+    },
+    "section4": {
+      "alliance1": "Strategic alliance 1",
+      "alliance1description": "Description of the first alliance",
+      "alliance2": "Strategic alliance 2",
+      "alliance2description": "Description of the second alliance",
+      "alliance3": "Strategic alliance 3",
+      "alliance3description": "Description of the third alliance",
+      "alliance4": "National University",
+      "alliance5": "Marine Research Institute"
+    }
+  }
+}

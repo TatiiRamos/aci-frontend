@@ -1,0 +1,45 @@
+{
+  "header": "Help ",
+  "headerSpan": "Center",
+  "paragraphHeader": "Learn more about Awaq Campus Internship",
+  "buttonRsvp": "Book",
+  "buttonExplore": "Explore",
+  "searchLabel": "How can we help you?",
+  "searchInput": "Enter your search term...",
+  "guideTitle": "Getting Started Guides",
+  "guideCards": [
+    {
+      "imageUrl": "https://r2.awaqinternship.org/helpCenter%2FhowDoRsvn.jpg",
+      "title": "How to make a reservation?",
+      "content": "Learn how to apply for a program or volunteer opportunity.",
+      "titleButton": "See more",
+      "url": "/how-it-works"
+    },
+    {
+      "imageUrl": "https://r2.awaqinternship.org/helpCenter%2FadminRsvn.jpg",
+      "title": "Manage reservations",
+      "content": "Track your applications, cancel or modify them.",
+      "titleButton": "View my reservations",
+      "url": "/login"
+    },
+    {
+      "imageUrl": "https://r2.awaqinternship.org/helpCenter%2FpayProcess.jpg",
+      "title": "Payment process",
+      "content": "Learn about the payment process and methods.",
+      "titleButton": "See more",
+      "url": "/paypal"
+    }
+  ],
+  "guideLink": "Not what you're looking for? Check out all our guides",
+  "faqTitle": "Frequently Asked Questions",
+  "faqContent": [
+    {
+      "question": "What is Awaq Campus Internship (ACI)?",
+      "answer": [
+        {
+          "text": "Awaq Campus Internship (ACI) is a program that welcomes students in biology and environmental sciences seeking practical experiences in their field. We offer internship opportunities that promote environmental, social, and economic development in local communities."
+        }
+      ]
+    }
+  ]
+}

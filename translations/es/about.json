@@ -1,0 +1,66 @@
+{
+  "title": "SOBRE",
+  "titleSpan": "NOSOTROS",
+  "aboutTitle": "SOBRE",
+  "aboutTitleSpan": "NOSOTROS",
+  "buttonText": "Conoce a nuestro equipo",
+  "paragraphTag": "Ahora puedes ser parte de una experiencia cultural y profesional única",
+  "buttonBook": "Reservar",
+  "buttonExplore": "Explorar",
+  "aboutUsTitle": "¿Quienes somos?",
+  "aboutUs": "Somos una organización de cooperación internacional que desde 2019 desarrolla, mediante Estaciones Biológicas, proyectos de investigación científica y conservación de ecosistemas en comunidades menos favorecidas a partir de modelos económicos alternativos que mejoren la calidad de vida de sus habitantes.",
+  "missionTitle": "Nuestra Misión",
+  "missionParagraph": "Promover, a través de la implantación de Estaciones Biológicas, el desarrollo ambiental, económico y social de la comunidad.",
+  "visionTitle": "Nuestra Visión",
+  "visionParagraph": "Ser la referencia mundial en la contribución a la transformación de la vida en comunidades respetuosas con el medio ambiente mediante el desarrollo de modelos económicos alternativos.",
+  "lookTitle": "¿Qué buscamos?",
+  "lookParagraph1": "Estamos encantados de presentarte las prácticas de Awaq Campus, una fantástica iniciativa de Awaq Biological Stations.",
+  "lookParagraph2": "Nuestra máxima prioridad es realizar investigación científica y conservación de ecosistemas en comunidades desfavorecidas, con el fin de proponer modelos económicos alternativos que mejoren el nivel de vida de los lugareños",
+  "lookParagraph3": "Nuestro objetivo último es salvaguardar los ecosistemas mediante iniciativas innovadoras de investigación científica y conservación en nuestras estaciones biológicas. Estamos comprometidos a marcar una diferencia significativa en el mundo y nos entusiasma el impacto positivo que podemos tener.",
+  "valuesTitle": "Nuestros Valores",
+  "values": {
+    "commitment": "Compromiso",
+    "solidarity": "Solidaridad",
+    "transparency": "Transparencia",
+    "proactivity": "Proactividad",
+    "collaboration": "Colaboración"
+  },
+  "needTitle": "¿Por qué necesitamos a Awaq?",
+  "development": {
+    "environmental": {
+      "title": "Desarrollo Ambiental",
+      "text": "Proteger y conservar el medio ambiente"
+    },
+    "economic": {
+      "title": "Desarrollo Económico",
+      "text": "Crear un modelo económico y una red sostenibles"
+    },
+    "social": {
+      "title": "Desarrollo Social",
+      "text": "Ayudar al desarrollo de las comunidades."
+    }
+  },
+  "howTitle": "¿Cómo lo hacemos?",
+  "projectsSubtitle": "Nuestros proyectos",
+  "projects": {
+    "biodiversity": "Biodiversidad",
+    "technology": "Tecnología",
+    "cultural": "Cultural",
+    "studyCase": "Caso de estudio"
+  },
+  "teamTitle": "El equipo",
+  "team": {
+    "president": {
+      "name": "José Serrano",
+      "role": "Presidente"
+    },
+    "vicePresident": {
+      "name": "Ximena Sanz",
+      "role": "Vicepresidenta"
+    },
+    "secretary": {
+      "name": "Angélica Lozano",
+      "role": "Secretaria General"
+    }
+  }
+}

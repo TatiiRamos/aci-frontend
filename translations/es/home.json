@@ -1,0 +1,66 @@
+{
+  "hero": {
+    "internships": "Internships en AWAQ Estaciones Biológicas",
+    "paragraphH2": "Sé un héroe en la lucha contra el cambio climático",
+    "buttonInternships": "Ver Internships",
+    "buttonLearn": "Reservar"
+  },
+  "beAHero": {
+    "title1": "Sé un ",
+    "spanTitle": "héroe ",
+    "title2": "con nosotros",
+    "titleH3": "¿Por qué elegir AWAQ Campus Internship?",
+    "check1": "Con tu reserva apoyaremos la conservación del planeta en la lucha contra el ",
+    "check1Span": "cambio climático.",
+    "check2": "Contribuirás al ",
+    "check2Span": "cuidado del medio ambiente",
+    "check2AfterSpan": "; con nuestro programa de biomonitorización podremos recolectar información que ayude a encontrar soluciones para la conservación de los ecosistemas de la región colombiana de Caldas.",
+    "check3": "para aplicar. Todos pueden ser parte de esta increíble experiencia; estudiantes, científicos, profesionales, turistas, particulares, profesores, empresas...",
+    "check3Span": "No hay requisitos ",
+    "check4": "Estarás rodeado de 30.000 m2 repletos de una valiosa biodiversidad."
+  },
+  "aboutACI": {
+    "title": "Qué es Awaq Campus Internship",
+    "items": [
+      {
+        "title": "Programa de Conservación Ambiental:",
+        "content": "ACI ofrece prácticas inmersivas en estaciones biológicas para estudiantes universitarios de todo el mundo."
+      },
+      {
+        "title": "Experiencia Práctica:",
+        "content": "Los participantes adquieren conocimientos y habilidades en conservación a través de actividades de biomonitoreo y proyectos ambientales."
+      },
+      {
+        "title": "Mentoría Profesional:",
+        "content": "Estudiantes reciben guía y apoyo de expertos en el campo de la conservación."
+      },
+      {
+        "title": "Impacto en Comunidades Rurales:",
+        "content": "ACI promueve el desarrollo sostenible y apoya a las comunidades locales mediante la creación de empleo y el financiamiento de proyectos comunitarios."
+      },
+      {
+        "title": "Desarrollo Personal y Profesional:",
+        "content": "Los estudiantes mejoran sus competencias, crean redes profesionales y contribuyen significativamente al cuidado del medio ambiente."
+      },
+      {
+        "title": "Internacionalización:",
+        "content": "ACI facilita la colaboración global y la integración de conocimientos de diversas culturas y disciplinas."
+      }
+    ]
+  },
+  "whosAimedAt": {
+    "title": "A quién está dirigido",
+    "students": {
+      "title": "Estudiantes",
+      "description": "ACI proporciona prácticas en biología y ciencias ambientales que fomentan el desarrollo local sostenible. Los estudiantes no solo adquieren conocimientos técnicos, sino que también contribuyen al progreso y bienestar de las comunidades."
+    },
+    "generalPublic": {
+      "title": "Público en general",
+      "description": "ACI ofrece experiencias de inmersión en la naturaleza durante períodos vacacionales. Invitamos a todos a participar en visitas guiadas, talleres y voluntariados, una oportunidad única para disfrutar y conservar la naturaleza."
+    },
+    "companies": {
+      "title": "Empresas",
+      "description": "ACI facilita que empresas reserven experiencias naturales para empleados durante internships. Promueve la RSC y educa sobre conservación ambiental y cambio climático."
+    }
+  }
+}

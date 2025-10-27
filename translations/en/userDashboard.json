@@ -1,0 +1,21 @@
+{
+  "sidebar": {
+    "profile": "My Profile",
+    "reservation": "My Reservation",
+    "cancelReservation": "Cancel Reservation",
+    "info": "Information",
+    "purchases": "My Purchases",
+    "settings": "Settings"
+  },
+  "profileTitle": "My Profile",
+  "fullName": "Full Name",
+  "email": "Email",
+  "country": "Country of Residence",
+  "phone": "Phone",
+  "city": "City of Residence",
+  "emergencyContact": "Emergency Contact",
+  "editProfile": "Edit Profile",
+  "student": "Student",
+  "admin": "Admin",
+  "personalInfo": "Personal Information"
+}

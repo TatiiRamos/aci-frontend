@@ -1,0 +1,22 @@
+{
+  "cardBooking": {
+    "title": "Summary of your reservation",
+    "titleInternship": "Internship:",
+    "titleCountry": "Country:",
+    "titleStation": "Station:",
+    "titleDate": "Date:",
+    "titleHotel": "Hotel:",
+    "titleTotal": "Total:"
+  },
+  "booking": {
+    "title": "Complete your reservation",
+    "subtitle": "Enter your personal information",
+    "internship": {
+      "info": "Internship information",
+      "title": "Internship"
+    },
+    "date": {
+      "title": "Date"
+    }
+  }
+}

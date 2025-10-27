@@ -1,0 +1,11 @@
+{
+  "destinationsInter": "Destinos para hacer tus prácticas",
+  "countries": {
+    "colombia": {
+      "name": "Colombia",
+      "subtitle": "¡Vive una experiencia única en el país de la biodiversidad!",
+      "description": "Colombia es el segundo país más biodiverso del mundo. Un paraíso natural que te permitirá trabajar en la conservación de especies únicas.",
+      "buttonText": "Más información"
+    }
+  }
+}

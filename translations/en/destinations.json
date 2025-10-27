@@ -1,0 +1,11 @@
+{
+  "destinationsInter": "Destinations for your internships",
+  "countries": {
+    "colombia": {
+      "name": "Colombia",
+      "subtitle": "Live a unique experience in the country of biodiversity!",
+      "description": "Colombia is the second most biodiverse country in the world. A natural paradise that will allow you to work in the conservation of unique species.",
+      "buttonText": "More information"
+    }
+  }
+}

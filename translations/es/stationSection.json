@@ -1,0 +1,28 @@
+{
+  "title": "Estaciones",
+  "searchPlaceholder": "Buscar",
+  "addStation": "+ Agregar Estación",
+  "seeAll": "Ver todas las estaciones",
+  "table": {
+    "name": "Nombre",
+    "country": "País",
+    "director": "Director",
+    "action": "Acción"
+  },
+  "info": {
+    "city": "Ciudad",
+    "subtitle": "Subtitulo",
+    "description": "Descripción",
+    "state": "Estado",
+    "image": "Imagen",
+    "noImage": "No tiene imagen",
+    "video": "Video",
+    "noVideo": "No tiene video",
+    "videoUnsupported": "Tu navegador no soporta el video"
+  },
+  "states": {
+    "available": "Disponible",
+    "unavailable": "No disponible"
+  },
+  "noStations": "No hay estaciones creadas."
+}

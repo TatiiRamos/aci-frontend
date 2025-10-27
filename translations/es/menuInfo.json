@@ -1,0 +1,162 @@
+{
+  "menuItems": [
+    "Sobre la estación",
+    "Nuestra misión",
+    "Biodiversidad marina",
+    "Ubicación geográfica",
+    "Fauna acuática",
+    "Ecosistemas",
+    "Datos del contacto"
+  ],
+  "btnContacto": "Contactar",
+  "estacion1": {
+    "seccion1": {
+      "titulo": "Estación Biológica Norte de Caldas",
+      "subTitulo1": "Un paraíso natural en el corazón de Colombia",
+      "subTitulo2": "Conservación e investigación en biodiversidad",
+      "tituloExplicativo1": "Sobre nuestra estación",
+      "txtExplicativo1": "La estación biológica se encuentra ubicada en el norte de Caldas, una región privilegiada por su biodiversidad.",
+      "tituloExplicativo2": "Nuestro compromiso",
+      "txtExplicativo2": "Trabajamos en la conservación y protección de los ecosistemas locales."
+    },
+    "seccion2": {
+      "titulo": "Nuestra misión",
+      "mision1Titulo": "Conservación",
+      "mision2Titulo": "Investigación",
+      "mision1Info": "Proteger y conservar los ecosistemas naturales de la región.",
+      "mision2Info": "Realizar investigación científica de alta calidad."
+    },
+    "seccion3": {
+      "titulo": "Biodiversidad marina",
+      "texto": "La biodiversidad marina de la región es excepcional.",
+      "subTitulo": "Especies destacadas:",
+      "item1": "Corales",
+      "item2": "Peces tropicales",
+      "item3": "Mamíferos marinos",
+      "item4": "Invertebrados",
+      "item1text": "Ecosistemas coralinos únicos",
+      "item2text": "Gran diversidad de especies ícticas",
+      "item3text": "Ballenas y delfines",
+      "item4text": "Crustáceos y moluscos"
+    },
+    "seccion4": {
+      "tituloPais": "País",
+      "tituloRegion": "Región",
+      "tituloMunicipio": "Municipio",
+      "infoPais": "Colombia",
+      "infoRegion": "Norte de Caldas",
+      "infoMunicipio": "Aguadas",
+      "tituloDescriptivo": "Descripción geográfica",
+      "textoDescriptivo": "La estación se encuentra en una ubicación estratégica."
+    },
+    "seccion5": {
+      "items": ["Peces", "Corales", "Crustáceos", "Moluscos", "Equinodermos"],
+      "text1": "Diversidad de peces tropicales",
+      "text2": "Arrecifes coralinos saludables",
+      "text3": "Crustáceos endémicos",
+      "text4": "Moluscos de importancia comercial",
+      "text5": "Equinodermos como indicadores ecológicos"
+    },
+    "seccion6": {
+      "item1": "Arrecifes de coral",
+      "item2": "Manglares",
+      "subItem1": "Coral duro",
+      "subItem2": "Coral blando",
+      "subItem3": "Manglar rojo",
+      "subItem4": "Manglar negro",
+      "subItem5": "Manglar blanco",
+      "subItem6": "Manglar botón",
+      "text1": "Ecosistemas coralinos diversos",
+      "text2": "Corales blandos únicos",
+      "text3": "Manglares como nursery",
+      "text4": "Protección costera",
+      "text5": "Filtración natural",
+      "text6": "Hábitat especializado"
+    },
+    "seccion7": {
+      "titulo1": "Director de estación",
+      "titulo2": "Coordinador de investigación",
+      "titulo3": "Especialista en conservación",
+      "titulo4": "Contacto principal",
+      "texto1Info": "Líder del equipo de la estación",
+      "texto2Info": "Coordinación de proyectos científicos",
+      "nombreContacto": "Dr. Juan Pérez",
+      "cargoContacto": "Director de estación"
+    }
+  },
+  "estacion2": {
+    "seccion1": {
+      "titulo": "Estación Biológica Andes",
+      "subTitulo1": "Investigación en ecosistemas de montaña",
+      "subTitulo2": "Conservación de alta montaña",
+      "tituloExplicativo1": "Sobre nuestra estación",
+      "txtExplicativo1": "La estación de los Andes se especializa en ecosistemas de montaña.",
+      "tituloExplicativo2": "Nuestro compromiso",
+      "txtExplicativo2": "Conservación de la biodiversidad andina."
+    },
+    "seccion2": {
+      "titulo": "Nuestra misión",
+      "mision1Titulo": "Conservación",
+      "mision2Titulo": "Investigación",
+      "mision1Info": "Proteger ecosistemas de montaña únicos.",
+      "mision2Info": "Investigación en biodiversidad andina."
+    },
+    "seccion3": {
+      "titulo": "Biodiversidad de montaña",
+      "texto": "Los ecosistemas andinos albergan especies únicas.",
+      "subTitulo": "Especies destacadas:",
+      "item1": "Aves endémicas",
+      "item2": "Mamíferos de altura",
+      "item3": "Plantas alpinas",
+      "item4": "Anfibios",
+      "item1text": "Especies de aves únicas de la región",
+      "item2text": "Mamíferos adaptados a la altura",
+      "item3text": "Flora especializada de montaña",
+      "item4text": "Anfibios endémicos"
+    },
+    "seccion4": {
+      "tituloPais": "País",
+      "tituloRegion": "Región",
+      "tituloMunicipio": "Municipio",
+      "infoPais": "Colombia",
+      "infoRegion": "Cordillera de los Andes",
+      "infoMunicipio": "Manizales",
+      "tituloDescriptivo": "Descripción geográfica",
+      "textoDescriptivo": "Ubicada en la cordillera andina."
+    },
+    "seccion5": {
+      "items": ["Aves", "Mamíferos", "Plantas", "Anfibios", "Reptiles"],
+      "text1": "Diversidad de aves endémicas",
+      "text2": "Mamíferos de montaña",
+      "text3": "Flora alpina especializada",
+      "text4": "Anfibios únicos",
+      "text5": "Reptiles de altura"
+    },
+    "seccion6": {
+      "item1": "Impacto Ambiental:",
+      "item2": "Impacto Social:",
+      "subItem1": "Protección de Ecosistemas de Montaña: ",
+      "subItem2": "Control de Especies Invasivas: ",
+      "subItem3": "Corredores Biológicos: ",
+      "subItem4": "Educación y Sensibilización Comunitaria: ",
+      "subItem5": "Participación Comunitaria: ",
+      "subItem6": "Desarrollo Sostenible Local: ",
+      "text1": "Conservamos hábitats críticos de alta montaña y especies endémicas.",
+      "text2": "Implementamos medidas para controlar especies que amenazan la biodiversidad nativa.",
+      "text3": "Creamos conexiones entre fragmentos de bosque para facilitar el movimiento de especies.",
+      "text4": "Desarrollamos programas educativos para aumentar la conciencia ambiental.",
+      "text5": "Involucramos a las comunidades locales en actividades de conservación.",
+      "text6": "Promovemos prácticas sostenibles que beneficien tanto al medio ambiente como a la economía local."
+    },
+    "seccion7": {
+      "titulo1": "Video de Presentación",
+      "titulo2": "Liderazgo en Conservación y Comunidad",
+      "titulo3": "Generación de Conocimiento Ambiental",
+      "titulo4": "Información de Contacto",
+      "texto1Info": "Médica Veterinaria y Zootecnista graduada de la Universidad Pedagógica y Tecnológica de Colombia",
+      "texto2Info": "Coordinadora y cofundadora de la Estación Biológica de los Andes",
+      "nombreContacto": "Valentina Grijalba",
+      "cargoContacto": "Directora de la Estación"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "copyright": "© 2024 Awaq Campus Internship. Todos los derechos reservados.",
+  "titlePartners": "Nuestros Colaboradores",
+  "titleMerits": "Méritos",
+  "altAzure": "Logo de Azure",
+  "altMonday": "Logo de Monday",
+  "altUptimeRobot": "Logo de UptimeRobot",
+  "projectsMerits": [
+    {
+      "title": "imagen Tedi",
+      "img": "https://somosawaqblob.blob.core.windows.net/somosawaq/TEDI2.png",
+      "paragraph": "Desarrollado por",
+      "paragraph1": "programa Tedi",
+      "link": "https://www.somosawaq.org/team",
+      "id": 32131547654654
+    },
+    {
+      "title": "imagen Tec. Monterrey",
+      "img": "https://somosawaqblob.blob.core.windows.net/somosawaq/Socios%20Formadores.png",
+      "paragraph": "Socios Formadores",
+      "paragraph1": "Tec. Monterrey",
+      "link": "https://tec.mx/es/socios-formadores",
+      "id": 32131547654657
+    },
+    {
+      "title": "imagen Project Galileo",
+      "img": "https://r2.awaqinternship.org/footer/Project_galileo.png",
+      "paragraph": "Impulsado por",
+      "paragraph1": "proyecto Galileo",
+      "link": "https://www.cloudflare.com/en-gb/galileo/",
+      "id": 32131547654659
+    }
+  ],
+  "footerLinks": [
+    [
+      { "title": "Internship", "link": "/internships" },
+      { "title": "Biomonitorización", "link": "#" },
+      { "title": "Destinos", "link": "/destinations" },
+      { "title": "Hospedajes", "link": "#" }
+    ],
+    [
+      { "title": "Centro de Ayuda", "link": "/help" },
+      { "title": "Preguntas Frecuentes", "link": "#" },
+      { "title": "Cómo Funciona", "link": "#" },
+      { "title": "Contáctanos", "link": "/contact" }
+    ],
+    [
+      { "title": "Comunidad", "link": "#" },
+      { "title": "Blog", "link": "#" },
+      { "title": "Prensa", "link": "#" },
+      { "title": "Reseñas", "link": "#" }
+    ],
+    [
+      { "title": "Sobre Nosotros", "link": "https://www.somosawaq.org/somos" },
+      { "title": "Equipo", "link": "#" },
+      { "title": "Valores", "link": "#" },
+      { "title": "Propuesta", "link": "#" }
+    ]
+  ],
+  "lowerFooterLinks": [
+    { "title": "Términos y Condiciones", "link": "/terms-and-conditions" },
+    { "title": "Políticas de Privacidad", "link": "/privacy-policies" },
+    { "title": "Cookies", "link": "/cookies" }
+  ]
+}
