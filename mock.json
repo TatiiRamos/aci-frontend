@@ -1,0 +1,292 @@
+[
+  {
+    "name": "Colombia",
+    "subtitle": "Estación Biológica en Aguadas Caldas",
+    "description": "Descubre la magia de la biodiversidad en Colombia.",
+    "image": "https://img.freepik.com/foto-gratis/majestuoso-pico-montana-tranquila-selva-tropical-generado-ia_188544-10640.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=sph",
+    "language": "Spanish"
+  },
+  {
+    "name": "Colombia",
+    "subtitle": "Biological Station in Aguadas Caldas",
+    "description": "Discover the magic of biodiversity in Colombia.",
+    "image": "https://img.freepik.com/foto-gratis/majestuoso-pico-montana-tranquila-selva-tropical-generado-ia_188544-10640.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=sph",
+    "language": "English"
+  },
+  {
+    "name": "Argentina",
+    "subtitle": "Estación Biológica en Los Andes",
+    "description": "Explora la riqueza natural de Argentina.",
+    "image": "https://img.freepik.com/foto-gratis/hermoso-lago-glacial-ventisquero-negro-parque-nacional-nahuel-huapi-argentina_181624-55412.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=sph",
+    "language": "Spanish"
+  },
+  {
+    "name": "Argentina",
+    "subtitle": "Biological Station in the Andes",
+    "description": "Explore the natural richness of Argentina.",
+    "image": "https://img.freepik.com/foto-gratis/hermoso-lago-glacial-ventisquero-negro-parque-nacional-nahuel-huapi-argentina_181624-55412.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=sph",
+    "language": "English"
+  },
+  {
+    "name": "Perú",
+    "subtitle": "Estación Biológica en la Amazonía del Perú",
+    "description": "Sumérgete en la biodiversidad única de Perú.",
+    "image": "https://img.freepik.com/foto-gratis/puesta-sol-sobre-selva-tropical-escena-tranquila-belleza-natural-generada-ia_188544-61218.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=sph",
+    "language": "Spanish"
+  },
+  {
+    "name": "Peru",
+    "subtitle": "Biological Station in the Amazon of Peru",
+    "description": "Immerse yourself in the unique biodiversity of Peru.",
+    "image": "https://img.freepik.com/foto-gratis/puesta-sol-sobre-selva-tropical-escena-tranquila-belleza-natural-generada-ia_188544-61218.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=sph",
+    "language": "English"
+  },
+  {
+    "name": "México",
+    "subtitle": "Estación Biológica en la Península de Yucatán",
+    "description": "Explora la biodiversidad excepcional de México.",
+    "image": "https://img.freepik.com/foto-gratis/hermosa-cascada-zona-tropical-bosque-paisaje-cascada_613910-4048.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=sph",
+    "language": "Spanish"
+  },
+  {
+    "name": "Mexico",
+    "subtitle": "Biological Station in the Yucatan Peninsula",
+    "description": "Explore the exceptional biodiversity of Mexico.",
+    "image": "https://img.freepik.com/foto-gratis/hermosa-cascada-zona-tropical-bosque-paisaje-cascada_613910-4048.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=sph",
+    "language": "English"
+  },
+  {
+    "name": "Norte Caldas",
+    "subtitle": "Centro para la investigación y estudio de la biodiversidad",
+    "state": true,
+    "description": "La radicación de la Estación Biológica en Aguadas - EBA, conlleva una transformación ambiental en el territorio enfocada en la investigación y apropiación de la biodiversidad, resaltando así la importancia de cuidar y preservar los recursos naturales con el fin de fortalecer las alianzas y las nuevas tecnologías que logren las sinergias necesarias para un desarrollo social, económico, ambiental e investigativo del norte de Caldas.",
+    "responsable": "John Doe",
+    "mailResponsale": "john.doe@gmail.com",
+    "telResponsable": "5491112345678",
+    "country": "Colombia",
+    "image": "https://img.freepik.com/foto-gratis/dos-loros-sentados-rama-cuales-es-verde-amarillo_188544-46164.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=sph",
+    "location": {
+      "gps": "url_location_station_norte_caldas",
+      "address": "url_address_station_norte_caldas"
+    },
+    "language": "Spanish"
+  },
+  {
+    "name": "Norte Caldas",
+    "subtitle": "Center for the research and study of biodiversity",
+    "state": true,
+    "description": "The establishment of the Biological Station in Aguadas - EBA involves an environmental transformation in the territory focused on the research and understanding of biodiversity. It emphasizes the importance of caring for and preserving natural resources to strengthen alliances and new technologies for social, economic, environmental, and research development in the north of Caldas.",
+    "responsable": "John Doe",
+    "mailResponsale": "john.doe@gmail.com",
+    "telResponsable": "5491112345678",
+    "country": "Colombia",
+    "image": "https://img.freepik.com/foto-gratis/dos-loros-sentados-rama-cuales-es-verde-amarillo_188544-46164.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=sph",
+    "location": {
+      "gps": "url_location_station_norte_caldas",
+      "address": "url_address_station_norte_caldas"
+    },
+    "language": "English"
+  },
+  {
+    "name": "Los Andes",
+    "subtitle": "Centro para la investigación y estudio de la biodiversidad",
+    "state": true,
+    "description": "La Estación Biológica en Los Andes busca una transformación ambiental en el territorio enfocada en la investigación y apropiación de la biodiversidad. Entre sus objetivos principales destaca su interés en resaltar la importancia de cuidar y preservar los recursos naturales con el fin tener un impacto positivo en el desarrollo social, económico, ambiental e investigativo en el noroeste de Argentina.",
+    "responsable": "Jane Doe",
+    "mailResponsale": "jane.doe@gmail.com",
+    "telResponsable": "5491187654321",
+    "country": "Argentina",
+    "image": "https://img.freepik.com/foto-gratis/hombre-mochila-admira-paisaje-montana-magnifico_1304-5340.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=ais",
+    "location": {
+      "gps": "url_location_station__andes",
+      "address": "url_address_station_andes"
+    },
+    "language": "Spanish"
+  },
+  {
+    "name": "Los Andes",
+    "subtitle": "Center for the research and study of biodiversity",
+    "state": true,
+    "description": "The Biological Station in the Andes seeks an environmental transformation in the territory focused on the research and understanding of biodiversity. Among its main objectives is the interest in highlighting the importance of caring for and preserving natural resources to have a positive impact on social, economic, environmental, and research development in northwest Argentina.",
+    "responsable": "Jane Doe",
+    "mailResponsale": "jane.doe@gmail.com",
+    "telResponsable": "5491187654321",
+    "country": "Argentina",
+    "image": "https://img.freepik.com/foto-gratis/hombre-mochila-admira-paisaje-montana-magnifico_1304-5340.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=ais",
+    "location": {
+      "gps": "url_location_station_andes",
+      "address": "url_address_station_andes"
+    },
+    "language": "English"
+  },
+  {
+    "name": "Amazonía Peruana",
+    "subtitle": "Centro para la investigación y estudio de la biodiversidad",
+    "state": true,
+    "description": "La Estación Biológica 'Amazonía Peruana' está enfocada en una transformación ambiental en el territorio por medio de la investigación y apropiación de la biodiversidad. Busca resaltar la importancia de cuidar y preservar los recursos naturales con el fin de fortalecer las alianzas y las nuevas tecnologías que logren un desarrollo social, económico, ambiental e investigativo en la Amazonía del Perú.",
+    "responsable": "James Smith",
+    "mailResponsale": "james.smith@gmail.com",
+    "telResponsable": "5492219876543",
+    "country": "Perú",
+    "image": [
+      "https://img.freepik.com/foto-gratis/hermoso-sol-poniente-sobre-paisaje-montana-bosque_181624-23715.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=ais"
+    ],
+    "location": {
+      "gps": "url_location_station_amazonia_peru",
+      "address": "url_address_station_amazonia_peru"
+    },
+    "language": "Spanish"
+  },
+  {
+    "name": "Amazonía Peruana",
+    "subtitle": "Center for the research and study of biodiversity",
+    "state": true,
+    "description": "The Biological Station 'Amazonía Peruana' is focused on an environmental transformation in the territory through research and understanding of biodiversity. It aims to highlight the importance of caring for and preserving natural resources to strengthen alliances and new technologies for social, economic, environmental, and research development in the Amazon of Peru.",
+    "responsable": "James Smith",
+    "mailResponsale": "james.smith@gmail.com",
+    "telResponsable": "5492219876543",
+    "country": "Peru",
+    "image": [
+      "https://img.freepik.com/free-photo/beautiful-sunset-over-mountain-forest_181624-23715.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=ais"
+    ],
+    "location": {
+      "gps": "url_location_station_amazonia_peru",
+      "address": "url_address_station_amazonia_peru"
+    },
+    "language": "English"
+  },
+  {
+    "name": "Biomonotorización",
+    "subtitle": "Internship en Norte de Caldas",
+    "state": "Available",
+    "description": "Mediante nuestro Internship en Biomonitorización en Norte Caldas desarrollarás habilidades y capacidades que no sabías que tenías. Te divertirás realizando talleres prácticos y realizando visitas instructivas a diferentes lugares. Te ofrecemos la oportunidad de ser parte de este emocionante proyecto en el que no solo podrás estar en contacto con fundamentos teóricos sino también prácticos que te ayudarán a formarte de la mejor manera en la biodiversidad ¡Reserva ahora mismo!",
+    "pdf": "url_pdf_Biomonitorización_Norte_Caldas",
+    "image": [
+      "https://img.freepik.com/foto-gratis/mochilero-pie-mirador-amanecer-aldea-ja-bo-provincia-mae-hong-son-tailandia_335224-1356.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=sph"
+    ],
+    "stations": [
+      {
+        "name": "Norte Caldas",
+        "capacity": 10
+      }
+    ],
+    "language": "Spanish"
+  },
+  {
+    "name": "Biomonotoring",
+    "subtitle": "Internship in Norte de Caldas",
+    "state": "Available",
+    "description": "Through our Internship in Biomonitoring in Norte Caldas, you will develop skills and abilities you didn't know you had. Enjoy practical workshops and instructive visits to different places. We offer you the opportunity to be part of this exciting project where you can not only be in contact with theoretical foundations but also practical aspects that will help you shape your understanding of biodiversity. Reserve now!",
+    "pdf": "url_pdf_Biomonitorización_Norte_Caldas",
+    "image": [
+      "https://img.freepik.com/foto-gratis/mochilero-pie-mirador-amanecer-aldea-ja-bo-provincia-mae-hong-son-tailandia_335224-1356.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=sph"
+    ],
+    "stations": [
+      {
+        "name": "Norte Caldas",
+        "capacity": 10
+      }
+    ],
+    "language": "English"
+  },
+  {
+    "name": "Corredor Biológico",
+    "subtitle": "Internship en Norte de Caldas",
+    "state": "Available",
+    "description": "Mediante nuestro Internship 'Corredor Biológico' desarrollarás habilidades y capacidades que no sabías que tenías. Realizarás talleres prácticos y visitas instructivas; fortalecerás conceptos teóricos y vivirás una formación integral y completa en biología.",
+    "pdf": "url_pdf_corredor_biológico",
+    "image": ["https://r2.awaqinternship.org/Trekking.png"],
+    "stations": [
+      {
+        "name": "Norte Caldas",
+        "capacity": 10
+      }
+    ],
+    "language": "Spanish"
+  },
+  {
+    "name": "Biological Corridor",
+    "subtitle": "Internship in Norte de Caldas",
+    "state": "Available",
+    "description": "Through our 'Biological Corridor' Internship, you will develop skills and abilities you didn't know you had. You will participate in practical workshops and informative visits, strengthen theoretical concepts, and experience comprehensive training in biology.",
+    "pdf": "url_pdf_corredor_biológico",
+    "image": ["https://r2.awaqinternship.org/Trekking.png"],
+    "stations": [
+      {
+        "name": "Norte Caldas",
+        "capacity": 10
+      }
+    ],
+    "language": "English"
+  },
+  {
+    "name": "Biomonotorización Perú",
+    "subtitle": "Internship en Perú",
+    "state": "Available",
+    "description": "Nuestro Internship de Biomonotorización en la Amazonía Peruana te permitirá desarrollar habilidades y capacidades que no sabías que tenías. Realizarás talleres prácticos, visitas instructivas y fortalecerás conceptos teóricos que te ayudarán a tener una gran formación en biodiversidad.",
+    "pdf": "url_pdf_bio_amazonia_peru",
+    "image": [
+      "https://img.freepik.com/foto-gratis/turismo-viajes-aventura-elegante-joven-inconformista-sentado-piedra-pies-descalzos-volviendo-cabeza-atras-ver-cascada-increible_273609-1867.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=sph"
+    ],
+    "stations": [
+      {
+        "name": "Amazonía Peruana",
+        "capacity": 10
+      }
+    ],
+    "language": "Spanish"
+  },
+  {
+    "name": "Biomonotoring Perú",
+    "subtitle": "Internship in Perú",
+    "state": "Available",
+    "description": "Our Biomonitoring Internship in the Peruvian Amazon will allow you to develop skills and abilities you didn't know you had. You will engage in practical workshops, informative visits, and strengthen theoretical concepts that will contribute to your extensive training in biodiversity.",
+    "pdf": "url_pdf_bio_amazonia_peru",
+    "image": [
+      "https://img.freepik.com/foto-gratis/turismo-viajes-aventura-elegante-joven-inconformista-sentado-piedra-pies-descalzos-volviendo-cabeza-atras-ver-cascada-increible_273609-1867.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=sph"
+    ],
+    "stations": [
+      {
+        "name": "Amazonía Peruana",
+        "capacity": 10
+      }
+    ],
+    "language": "English"
+  },
+  {
+    "name": "EcoConciencia",
+    "subtitle": "Internship en Argentina",
+    "state": "Available",
+    "description": "Nuestro Internship 'EcoConciencia' te permitirá desarrollar habilidades y capacidades que te sorprenderán y que impactarán de manera positiva al medio ambiente. Realizarás talleres prácticos y visitas instructivas; fortalecerás conceptos teóricos y tendrás una mayor conciencia de la ecología y biodiversidad.",
+    "pdf": "url_pdf_eco_conciencia_arg",
+    "instructor": "Instructor EcoConciencia ArG",
+    "image": [
+      "https://img.freepik.com/foto-gratis/reforestacion-realizada-grupo-voluntario_23-2149500828.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=ais"
+    ],
+    "stations": [
+      {
+        "name": "Los Andes",
+        "capacity": 10
+      }
+    ],
+    "language": "Spanish"
+  },
+  {
+    "name": "EcoConsciousness",
+    "subtitle": "Internship en Argentina",
+    "state": "Available",
+    "description": "Our 'EcoConsciousness' Internship will enable you to develop skills and abilities that will surprise you and positively impact the environment. You will participate in practical workshops and informative visits, strengthen theoretical concepts, and gain a greater awareness of ecology and biodiversity.",
+    "pdf": "url_pdf_eco_conciencia_arg",
+    "instructor": "Instructor EcoConciencia ArG",
+    "image": [
+      "https://img.freepik.com/foto-gratis/reforestacion-realizada-grupo-voluntario_23-2149500828.jpg?size=626&ext=jpg&ga=GA1.2.1686355918.1701634285&semt=ais"
+    ],
+    "stations": [
+      {
+        "name": "Los Andes",
+        "capacity": 10
+      }
+    ],
+    "language": "English"
+  }
+]
