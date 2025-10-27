@@ -1,0 +1,4 @@
+export const loremIpsumShort =
+  'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Viverra justo nec ultrices dui sapien eget mi. Lacus vel facilisis volutpat est velit egestas dui id. Erat pellentesque adipiscing commodo elit. '
+export const loremIpsum =
+  'fugiat laboris et veniam ut eu ipsum laboris labore consequat minim amet amet ad quis Excepteur exercitation laboris. sint cillum lorem ex in ea labore eu amet in nisi culpa nulla incididunt ipsum amet enim. aute sed sit aliqua laborum laborum pariatur sunt labore fugiat et enim mollit veniam incididunt sit elit. veniam velit consequat sint nostrud nisi Excepteur incididunt consequat id do pariatur ad irure occaecat in id. eiusmod non sunt eiusmod sunt anim fugiat dolore aliquip cupidatat aute velit pariatur esse ut ex adipiscing lorem lorem.'

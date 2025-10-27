@@ -1,0 +1,47 @@
+jobs:
+  build_and_deploy_job:
+    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
+    runs-on: ubuntu-latest
+    name: Build and Deploy Job
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          lfs: false
+
+      # 1️⃣ Selección de entorno (main o develop)
+      - name: Select Environment
+        id: envselect
+        run: |
+          if [[ "${GITHUB_REF_NAME}" == "main" ]]; then
+            echo "token=${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_CALM_PEBBLE_01E606F0F }}" >> $GITHUB_OUTPUT
+            echo "output_location=/dist" >> $GITHUB_OUTPUT
+            echo "api_location=api" >> $GITHUB_OUTPUT
+          else
+            echo "token=${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_HAPPY_CLIFF_08278200F }}" >> $GITHUB_OUTPUT
+            echo "output_location=/dist" >> $GITHUB_OUTPUT
+            echo "api_location=api" >> $GITHUB_OUTPUT
+          fi
+
+      # 2️⃣ Instalar dependencias
+      - name: Install dependencies
+        run: npm install
+
+      # 3️⃣ Build con la variable de entorno
+      - name: Build project
+        run: npm run build
+        env:
+          VITE_GOOGLE_CLIENT_ID: ${{ secrets.VITE_GOOGLE_CLIENT_ID }}
+
+      # 4️⃣ Deploy a Azure Static Web Apps
+      - name: Deploy to Azure
+        uses: Azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: ${{ steps.envselect.outputs.token }}
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          action: 'upload'
+          app_location: '/'
+          api_location: ${{ steps.envselect.outputs.api_location }}
+          output_location: ${{ steps.envselect.outputs.output_location }}
