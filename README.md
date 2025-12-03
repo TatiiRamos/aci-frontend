@@ -4,6 +4,6 @@ Diseño e implementación de una capa de seguridad perimetral avanzada en Cloudf
 
 Validación: Se realizaron pruebas de ataque simuladas (XSS e Inyección SQL) para confirmar la efectividad de las barreras de protección en el Cloudflare Worker (aci-security-proxy) antes de que el tráfico llegara al Front-End.
 
-Aca comparto la documentaciòn y el trabajo realizado en la organizaciòn.
+Aca comparto la documentación y el trabajo realizado en la organización.
 
 https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:62082082-6d8d-4314-b372-845ff7d2a7b2?viewer%21megaVerb=group-discover
