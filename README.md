@@ -1,37 +1,9 @@
-# Awaq Campus Internship
+Cloudflare - Seguridad Perimetral (Proyecto ACI-Frontend)
 
-Awaq Campus Internship es una aplicación web diseñada para estudiantes universitarios que deseen participar en prácticas universitarias para diferentes especializaciones. La aplicación permite a los estudiantes reservar habitaciones y acceder a instalaciones específicas dentro del campus.
+Diseño e implementación de una capa de seguridad perimetral avanzada en Cloudflare (WAF y Workers) para la infraestructura web ACI-Frontend de la ONG AWAQ. El enfoque principal fue la mitigación proactiva de Inyección SQL y Cross-Site Scripting (XSS), asegurando la integridad de servicios críticos, como los formularios de donación, mediante la detención de amenazas en el edge de la red.
 
-## Características principales
+Validación: Se realizaron pruebas de ataque simuladas (XSS e Inyección SQL) para confirmar la efectividad de las barreras de protección en el Cloudflare Worker (aci-security-proxy) antes de que el tráfico llegara al Front-End.
 
-- Registro y autenticación de usuarios.
-- Reserva de habitaciones y fechas de prácticas.
-- Gestión de reservas por parte de los administradores.
-- Panel de superadministrador para la administración.
-- Estadísticas y visualización de datos relevantes.
-- Integración con SweetAlert para mensajes de alerta personalizados.
+Aca comparto la documentaciòn y el trabajo realizado en la organizaciòn.
 
-## Tecnologías utilizadas
-
-- TypeScript: Lenguaje de programación para mejorar la escalabilidad y mantenibilidad del código.
-- React.JS: Biblioteca para construir interfaces de usuario interactivas y reutilizables.
-- React Router: Enrutador para la navegación declarativa en la aplicación.
-- Redux Toolkit: Biblioteca de gestión de estado para facilitar la manipulación.
-- SweetAlert: Biblioteca para mensajes de alerta y confirmaciones personalizadas.
-- React Hook Form: Biblioteca para la gestión y validación de formularios en React.
-- TailwindCSS: Framework de CSS para estilos de diseño flexibles y rápidos.
-- Tremor: Biblioteca para visualización de datos y creación de gráficos y paneles de control.
-
-## Deploy
-
-La documentacion de deploy se encuentra en [deploy](doc/DEPLOY.md)
-
-## Configuración del proyecto
-
-1. Clona este repositorio: `git clone https://github.com/Awaq-Estaciones-Biologicas/frontend_aci.git`
-2. Navega hasta el directorio del proyecto: `cd frontend_aci`
-3. Instala las dependencias: `npm install`
-4. En el archivo de [api](src/api.ts) colocar la api a utilizar.
-5. Configura las variables de entorno necesarias.
-6. Inicia la aplicación: `npm srun dev`
-7. Abre tu navegador y accede a `http://localhost:5173/`
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:62082082-6d8d-4314-b372-845ff7d2a7b2?viewer%21megaVerb=group-discover
